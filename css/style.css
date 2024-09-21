@@ -92,3 +92,142 @@ color: #FFFFFF;
 
 
 }
+.about-me{
+
+/* About me Section */
+
+position: absolute;
+width: 100%;
+height: 406px;
+left: 0px;
+top: 431px;
+
+
+
+
+
+
+}
+.about-title{
+    /* ABOUT ME */
+
+position: absolute;
+width: 261px;
+height: 30px;
+left: 20%;
+top: -60px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+
+color: #F5F5F5;
+
+
+}
+.about-content{
+/* I’m a Information Technology student at The Catholic University of Eastern Africa. I’m a Full stack software Engineer with vast skills in la-ravel ,Reactj, Ruby, and blockchain Technology. I’m a Information Technology student at The Catholic University of Eastern Africa. I’m a Full stack software Engineer with vast skills in la-ravel ,Reactj, Ruby, and blockchain Technology */
+
+position: absolute;
+width: 50%;
+height: 231px;
+left: 0px;
+top: -10px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+}
+.button1{
+    /* Group 4 */
+
+position: absolute;
+width: 140px;
+height: 30px;
+left: 218px;
+top: 55%;
+text-align: center;
+background-color: #D9D9D9;
+border-radius: 20px;
+
+
+}
+.line2{
+
+/* Line 2 */
+position: absolute;
+width: 333px;
+height: 0px;
+left: 35%;
+top: 110px;
+
+border: 1px solid #F5F5F5;
+transform: rotate(90deg);
+
+
+}
+.resume-title{
+    /* MY RESUME */
+
+position: absolute;
+width: 203px;
+height: 30px;
+left: 60%;
+top: -60px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+
+color: #F5F5F5;
+
+
+}
+.resume-content{
+
+
+    /* University[2023-2024]: The Catholic University of Eastern Africa. Certificate: Diploma In information Technology High School[2018-2022]: Ulanda Girls High School. Certificate: Kenya Certificate Of Secondary Education Primary[2010-2017]: St.Francis Assisi Primary School Certificate: Kenya Certificate of Primary Education. */
+
+position: absolute;
+width: 50%;
+height: 245px;
+left: 45%;
+top: -10px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+
+color: #FFFFFF;
+
+
+}
+.button2{
+    /* Group 3 */
+
+position: absolute;
+width: 140px;
+height: 30px;
+left: 756px;
+top: 55%;
+text-align: center;
+background-color: #D9D9D9;
+border-radius: 20px;
+
+}
