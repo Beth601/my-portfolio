@@ -1,0 +1,233 @@
+body{
+    /* Body section*/
+    background-color: #0D98BA;
+    width: 1084px;
+    height: 1506;
+
+
+
+}
+.nav-bar{
+/* navigation bar section*/
+
+position: absolute;
+width: 100%;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: #09677E;
+
+}
+nav{
+    /* HOME ABOUT ME CONTACT ME MY PORTFOLIO */
+
+position: absolute;
+width: 90%;
+height: 35px;
+left: 10%;
+top: 20px;
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 500px;
+font-size: 20px;
+line-height: 40px;
+
+
+
+}
+a{
+    /* HOME ABOUT ME CONTACT ME MY PORTFOLIO linking*/
+
+
+text-decoration: none;
+color: #F5F5F5;
+padding-left: 16px;
+
+}
+.Git-hub{
+
+/*Keywords: logo, version control
+*/
+
+position: absolute;
+width: 52px;
+height: 40px;
+left: 85%;
+top: -5px;
+
+
+
+}
+.home{
+      /* Group 5 */
+position: absolute;
+width: 100%;
+height: 234px;
+left: 0px;
+top: 50px;
+
+
+}
+.home-text{
+
+/* Hey I’m Elizabeth a Full-stack Software Engineer. I’m Motivated by a profound passion for Technology and Strong willingness to Learn. */
+
+position: absolute;
+width: 35%;
+height: 139px;
+left: 51px;
+top: 48px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+
+}
+.about-me{
+
+/* About me Section */
+
+position: absolute;
+width: 100%;
+height: 406px;
+left: 0px;
+top: 431px;
+
+
+
+
+
+
+}
+.about-title{
+    /* ABOUT ME */
+
+position: absolute;
+width: 261px;
+height: 30px;
+left: 20%;
+top: -60px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+
+color: #F5F5F5;
+
+
+}
+.about-content{
+/* I’m a Information Technology student at The Catholic University of Eastern Africa. I’m a Full stack software Engineer with vast skills in la-ravel ,Reactj, Ruby, and blockchain Technology. I’m a Information Technology student at The Catholic University of Eastern Africa. I’m a Full stack software Engineer with vast skills in la-ravel ,Reactj, Ruby, and blockchain Technology */
+
+position: absolute;
+width: 50%;
+height: 231px;
+left: 0px;
+top: -10px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+}
+.button1{
+    /* Group 4 */
+
+position: absolute;
+width: 140px;
+height: 30px;
+left: 218px;
+top: 55%;
+text-align: center;
+background-color: #D9D9D9;
+border-radius: 20px;
+
+
+}
+.line2{
+
+/* Line 2 */
+position: absolute;
+width: 333px;
+height: 0px;
+left: 35%;
+top: 110px;
+
+border: 1px solid #F5F5F5;
+transform: rotate(90deg);
+
+
+}
+.resume-title{
+    /* MY RESUME */
+
+position: absolute;
+width: 203px;
+height: 30px;
+left: 60%;
+top: -60px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+
+color: #F5F5F5;
+
+
+}
+.resume-content{
+
+
+    /* University[2023-2024]: The Catholic University of Eastern Africa. Certificate: Diploma In information Technology High School[2018-2022]: Ulanda Girls High School. Certificate: Kenya Certificate Of Secondary Education Primary[2010-2017]: St.Francis Assisi Primary School Certificate: Kenya Certificate of Primary Education. */
+
+position: absolute;
+width: 50%;
+height: 245px;
+left: 45%;
+top: -10px;
+
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+
+color: #FFFFFF;
+
+
+}
+.button2{
+    /* Group 3 */
+
+position: absolute;
+width: 140px;
+height: 30px;
+left: 756px;
+top: 55%;
+text-align: center;
+background-color: #D9D9D9;
+border-radius: 20px;
+
+}
