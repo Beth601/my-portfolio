@@ -1,4 +1,5 @@
 body{
+    /* Body section*/
     background-color: #0D98BA;
     width: 1084px;
     height: 1506;
@@ -6,3 +7,56 @@ body{
 
 
 }
+.nav-bar{
+/* navigation bar section*/
+
+position: absolute;
+width: 100%;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: #09677E;
+
+}
+nav{
+    /* HOME ABOUT ME CONTACT ME MY PORTFOLIO */
+
+position: absolute;
+width: 90%;
+height: 35px;
+left: 10%;
+top: 20px;
+font-family: 'Source Code Pro';
+font-style: normal;
+font-weight: 500px;
+font-size: 20px;
+line-height: 40px;
+
+
+
+}
+a{
+    /* HOME ABOUT ME CONTACT ME MY PORTFOLIO linking*/
+
+
+text-decoration: none;
+color: #F5F5F5;
+padding-left: 16px;
+
+}
+.Git-hub{
+
+/*Keywords: logo, version control
+*/
+
+position: absolute;
+width: 52px;
+height: 40px;
+left: 85%;
+top: -5px;
+
+
+
+}
+
